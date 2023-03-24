@@ -4,9 +4,14 @@
 
 Finding an acceptable salary range or minimum number is particularly important to most applicants to any job posting. Knowing what that number should be allows an applicant more control over the process and usually, better pay. For college football coaches and other positions with salaries that are open to the public, this data can be used to determine the market rate for a specific position.
 
-This project will use linear regression models created with Python to predict the market rate for the Syracuse football coach based on a variety of factors. 
+This project will use linear regression models created with Python to predict and answer the following questions:
 
-
+ - What is the recommended salary for the Syaracuse football coach?
+ - What would his salary be if he was still in the Big East or if he went to the Big Ten?
+ - What schools did you drop from the data and why?
+ - What effect does graduation rate have on the projected salary?
+ - How successful is the model?
+ - What is the single largest factor on projected salary?
 
 ## Analysis
 
